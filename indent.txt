@@ -1,0 +1,10 @@
+#include<bits/stdc++.h>
+int main()
+{cout<<"dd";
+cout<<c+d;
+if(c==d){
+	if(d==g){cout<<"d";
+}
+else{cout<<endl;cout<<hhh;}
+}else{d=p;}return 0;}
+
